@@ -11,9 +11,9 @@ This repository contains a project focused on time series analysis of energy usa
 3. Modeling and Forecasting:
     - Multiple models are employed to forecast future energy usage:
 
-        - XGBoost: A tree-based model used for initial forecasting and evaluation.
-        - LSTM (Long Short-Term Memory): A deep learning model specifically designed to handle sequential data, capturing long-term dependencies in the time series.
-        - Prophet: A model developed by Facebook, useful for capturing seasonality and trends in time series data with minimal tuning.
+        - **XGBoost**: A tree-based model used for initial forecasting and evaluation.
+        - **LSTM** (Long Short-Term Memory): A deep learning model specifically designed to handle sequential data, capturing long-term dependencies in the time series.
+        - **Prophet**: A model developed by Facebook, useful for capturing seasonality and trends in time series data with minimal tuning.
 -The performance of these models is evaluated using metrics like Mean Squared Error (MSE) and Mean Absolute Error (MAE).
 
 ## Requirements
